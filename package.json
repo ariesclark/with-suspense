@@ -4,6 +4,10 @@
   "description": "",
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariesclark/with-suspense.git"
+  },
   "keywords": [
     "react",
     "suspense"
