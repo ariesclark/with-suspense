@@ -15,11 +15,12 @@
     "index.d.ts"
   ],
   "peerDependencies": {
-    "react": "^16.6.0"
+    "@types/react": ">=16.6.0",
+    "react": ">=16.6.0"
   },
   "peerDependenciesMeta": {
-    "react": {
-      "optional": false
+    "@types/react": {
+      "optional": true
     }
   },
   "devDependencies": {
